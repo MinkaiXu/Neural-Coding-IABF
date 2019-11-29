@@ -1,4 +1,4 @@
-# Neural Joint Source-Channel Coding
+# Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip
 
 This repo contains a reference implementation for IABF as described in the paper:
 > Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip </br>
@@ -25,8 +25,8 @@ The IABF model operates over Tensorflow [TFRecords](https://www.tensorflow.org/t
 ## Options
 Training the IABF model takes a set of command line arguments in the `main.py` script. The most relevant ones are listed below:
 ```
---flip_samples: the number of flipped bits for adversarial training
---miw: the weight for mutual information term
+--flip_samples (INT): the number of flipped bits for adversarial training
+--miw (FLOAT): the weight for mutual information term
 --datasource (STRING):    one of [mnist, BinaryMNIST, random, omniglot, celebA, svhn, cifar10]
 --is_binary (BOOL):       whether or not the data is binary {0,1}, e.g. BinaryMNIST
 --vimco_samples (INT):    number of samples to use for VIMCO
