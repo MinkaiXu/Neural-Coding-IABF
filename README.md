@@ -65,6 +65,8 @@ If you find IABF useful in your research, please consider citing the following t
   journal={AAAI Conference on Artificial Intelligence (AAAI), 2020.},
   year={2019}
 }
+```
+```
 @article{choi2018necst,
   title={Neural Joint Source-Channel Coding},
   author={Choi, Kristy and Tatwawadi, Kedar and Grover, Aditya and Weissman, Tsachy and Ermon, Stefano},
