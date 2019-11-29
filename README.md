@@ -56,7 +56,7 @@ python3 main.py --exp_id="0828" --flip_samples=7 --miw=0.0000001 --noise=0.1 --d
 ```
 
 ## Citing
-If you find IABF useful in your research, please consider citing the following paper:
+If you find IABF useful in your research, please consider citing the following two papers:
 
 ```
 @article{song2019iabf,
@@ -64,5 +64,11 @@ If you find IABF useful in your research, please consider citing the following p
   author={Song, Yuxuan and Xu, Minkai and Yu, Lantao and Zhou, Hao and Shao, Shuo and Yu, Yong},
   journal={AAAI Conference on Artificial Intelligence (AAAI), 2020.},
   year={2019}
+}
+@article{choi2018necst,
+  title={Neural Joint Source-Channel Coding},
+  author={Choi, Kristy and Tatwawadi, Kedar and Grover, Aditya and Weissman, Tsachy and Ermon, Stefano},
+  journal={arXiv preprint arXiv:1811.07557},
+  year={2018}
 }
 ```
