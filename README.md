@@ -2,7 +2,7 @@
 
 This repo contains a reference implementation for IABF as described in the paper:
 > Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip </br>
-> Yuxuan Song, [Minkai Xu](http://minkaixu.com/), [Lantao Yu](http://lantaoyu.com/), [Hao Zhou](https://zhouh.github.io/), Shuo Shao, [Yong Yu](https://scholar.google.com/citations?user=-84M1m0AAAAJ&hl=en) </br>
+> Yuxuan Song, [Minkai Xu](https://minkaixu.com/), [Lantao Yu](http://lantaoyu.com/), [Hao Zhou](https://zhouh.github.io/), Shuo Shao, [Yong Yu](https://scholar.google.com/citations?user=-84M1m0AAAAJ&hl=en) </br>
 > AAAI Conference on Artificial Intelligence (AAAI), 2020. </br>
 > Paper: coming soon! </br>
 
